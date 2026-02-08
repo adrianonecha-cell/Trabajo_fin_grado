@@ -1,6 +1,6 @@
+import numpy as np
 def main():
-    print("Hello from trabajo-fin-grado!")
-
+    print(np.__version__)
 
 if __name__ == "__main__":
     main()
