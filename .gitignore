@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 data/
+data_processed_strict/
+data_processed_no_strict/
